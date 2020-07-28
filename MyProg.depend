@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1595058991 source:d:\dev\c programming\myprog\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1595059181 source:d:\dev\c programming\myprog\comment.c
+	<stdio.h>
+	<stdlib.h>
+
+1595059530 source:d:\dev\c programming\myprog\variables.c
+	<stdio.h>
+	<stdlib.h>
+
+1595058991 source:d:\dev\c programming\myprog\01_main.c
+	<stdio.h>
+	<stdlib.h>
+
+1595205568 source:d:\dev\c programming\myprog\02_comment.c
+	<stdio.h>
+	<stdlib.h>
+
+1595706097 source:d:\dev\c programming\myprog\03_variables.c
+	<stdio.h>
+	<stdlib.h>
+
+1595115807 source:d:\dev\c programming\myprog\04_simple maths and and operators.c
+	<stdio.h>
+	<stdlib.h>
+
+1595205497 source:d:\dev\c programming\myprog\05_if statement.c
+	<stdio.h>
+	<stdlib.h>
+
+1595207157 source:d:\dev\c programming\myprog\06_ternary_operator.c
+	<stdio.h>
+	<stdlib.h>
+
+1595207891 source:d:\dev\c programming\myprog\07_swich.c
+	<stdio.h>
+	<stdlib.h>
+
+1595248222 source:d:\dev\c programming\myprog\08_loop.c
+	<stdio.h>
+	<stdlib.h>
+
+1595248853 source:d:\dev\c programming\myprog\08_do_while_loop.c
+	<stdio.h>
+	<stdlib.h>
+
+1595250444 source:d:\dev\c programming\myprog\09_for_loop.c
+	<stdio.h>
+	<stdlib.h>
+
+1595711518 source:d:\dev\c programming\myprog\10_functions.c
+	<stdio.h>
+	<stdlib.h>
+
+1595901406 source:d:\dev\c programming\myprog\12_array.c
+	<stdio.h>
+	<stdlib.h>
+
